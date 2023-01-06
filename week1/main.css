@@ -83,7 +83,7 @@ ul {
   font-size: 2em;
   border-style: solid none;
   border-color: #d0d0d0;
-  border-width: small;
+  
 }
 
 li {
@@ -132,13 +132,12 @@ article {
   padding-bottom: 10px;
   border-style: none none solid none;
   border-color: #d0d0d0;
-  border-width: small;
   width: 350px;
 
 }
 
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 700px) {
 
   body {
       margin-top: 0px;
@@ -165,7 +164,6 @@ article {
       font-size: 2em;
       border-style: solid none;
       border-color: #d0d0d0;
-      border-width: small;
 
   }
 
@@ -183,7 +181,6 @@ article {
       width: 500px;
       border-style: none none solid solid;
       border-color: #d0d0d0;
-      border-width: small;
       padding-left: 20px;
   }
 
